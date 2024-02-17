@@ -1,0 +1,5 @@
+
+INFO [2024-02-17T13:04:55.358Z]: Set User: rslbalaji@gmail.com
+INFO [2024-02-17T13:04:55.358Z]: {"Telemetry":true}
+INFO [2024-02-17T13:04:56.848Z]: extension_initialized
+INFO [2024-02-17T13:04:56.848Z]: {"timeToInit":6004,"agent":"cosine-vscode","version":"1.1.2","package":"@cosine/analytics"}
